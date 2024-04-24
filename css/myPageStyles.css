@@ -1,0 +1,49 @@
+.header{
+    border: 3px solid rgb(111, 135, 167);
+}
+
+.mainbody{
+padding-left: 275px;
+}
+
+.footer{
+    position:fixed;
+    background-color: rgb(174, 196, 225);
+    bottom: 0px;
+    right: 2px;
+    left: 2px;
+    height: 25px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(228, 237, 252);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.italic{
+    font-style: italic;
+}
+
+h3{
+    color: navy;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+nav{
+    text-align: right;
+    padding: 10x;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 15 px;
+    text-decoration: none;
+    font-weight: bold;
+}
